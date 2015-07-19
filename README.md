@@ -26,7 +26,6 @@
 64.233.162.84     earth.google.com 
 <br>
 64.233.162.84     encrypted.google.com 
-
 <br><br>
 64.233.162.84 	developer.android.com
 <br>
