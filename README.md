@@ -31,7 +31,7 @@
 <br><br><br>
 
 <h4>附上Google镜像网站</h4>
-对于经习惯Google搜索的朋友应该是蛮不错的.
+对习惯Google搜索的朋友应该是蛮不错的.
 <br>
 
 [一哥搜Egeso](http://www.egeso.com/)
