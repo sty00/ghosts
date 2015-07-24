@@ -28,5 +28,12 @@
 64.233.162.84 	developer.android.com
 <br>
 64.233.162.84    market.android.com
+<br><br><br>
+
+<h4>附上Google镜像网站</h4>
+对于经习惯Google搜索的朋友应该是蛮不错的.
 <br>
+[一哥搜Egeso](http://www.egeso.com/)http://www.egeso.com/ 
+
+
 <h5>持续更新,若不能用请在issue中提出</h5>
