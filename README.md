@@ -34,7 +34,8 @@
 对习惯Google搜索的朋友应该是蛮不错的.
 <br>
 
-[一哥搜Egeso](http://www.egeso.com/)
+---快速搜索Google数据---
+[谷歌好搜](http://www.gghaoso.com/)
 
 
 <h5>持续更新,若不能用请在issue中提出</h5>
