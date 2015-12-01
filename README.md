@@ -32,9 +32,9 @@
 
 #Android SDK更新镜像
 ##中国科学院开源协会镜像站地址:
-*IPV4/IPV6: http://mirrors.opencas.cn 端口：80
-*IPV4/IPV6: http://mirrors.opencas.org 端口：80
-*IPV4/IPV6: http://mirrors.opencas.ac.cn 端口：80
+* IPV4/IPV6: http://mirrors.opencas.cn 端口：80
+* IPV4/IPV6: http://mirrors.opencas.org 端口：80
+* IPV4/IPV6: http://mirrors.opencas.ac.cn 端口：80
 
 #附上Google镜像网站
 对习惯Google搜索的朋友应该是蛮不错的.
