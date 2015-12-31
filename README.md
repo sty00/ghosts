@@ -3,31 +3,31 @@
 
 7/20/2015:
 
-64.233.162.84    www.google.com.hk
+216.239.38.125    www.google.com.hk
 <br>
-64.233.162.84     www.google.com
+216.239.38.125     www.google.com
 <br>
-64.233.162.84     accounts.google.com 
+216.239.38.125     accounts.google.com 
 <br>
-64.233.162.84    accounts.l.google.com
+216.239.38.125    accounts.l.google.com
 <br>
-64.233.162.84     mail.google.com 
+216.239.38.125     mail.google.com 
 <br><br>
-64.233.162.84    dl.google.com 
+216.239.38.125    dl.google.com 
 <br>
-64.233.162.84     dl.l.google.com 
+216.239.38.125     dl.l.google.com 
 <br>
-64.233.162.84     dl-ssl.google.com 
+216.239.38.125     dl-ssl.google.com 
 <br>
-64.233.162.84    domains.google.com 
+216.239.38.125    domains.google.com 
 <br>
-64.233.162.84     earth.google.com 
+216.239.38.125     earth.google.com 
 <br>
-64.233.162.84     encrypted.google.com 
+216.239.38.125     encrypted.google.com 
 <br><br>
-64.233.162.84 	developer.android.com
+216.239.38.125 	developer.android.com
 <br>
-64.233.162.84    market.android.com
+216.239.38.125    market.android.com
 <br><br><br>
 
 #Android SDK更新镜像
